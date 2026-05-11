@@ -116,9 +116,3 @@ if ! shopt -oq posix; then
   fi
 fi
 source <(kubectl completion bash)
-
-
-# add 20260511
-
-# add 20260512
-
